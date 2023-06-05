@@ -1,0 +1,15 @@
+G:\GB\PracticalTaskFive\Task thirty-four\bin\Debug\net7.0\Task thirty-four.exe
+G:\GB\PracticalTaskFive\Task thirty-four\bin\Debug\net7.0\Task thirty-four.deps.json
+G:\GB\PracticalTaskFive\Task thirty-four\bin\Debug\net7.0\Task thirty-four.runtimeconfig.json
+G:\GB\PracticalTaskFive\Task thirty-four\bin\Debug\net7.0\Task thirty-four.dll
+G:\GB\PracticalTaskFive\Task thirty-four\bin\Debug\net7.0\Task thirty-four.pdb
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.csproj.AssemblyReference.cache
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.AssemblyInfoInputs.cache
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.AssemblyInfo.cs
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.csproj.CoreCompileInputs.cache
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.dll
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\refint\Task thirty-four.dll
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.pdb
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\Task thirty-four.genruntimeconfig.cache
+G:\GB\PracticalTaskFive\Task thirty-four\obj\Debug\net7.0\ref\Task thirty-four.dll
