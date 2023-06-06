@@ -22,6 +22,6 @@ for (int i = 1; i < array.Length; i += 2)
 {
     SumOdd += array[i];
 }
-Console.WriteLine($"Количество чётных чисел в массиве: {SumOdd}");
+Console.WriteLine($"сумма элементов, стоящих на нечётных позициях: {SumOdd}");
 }
 SumOddPosition(array);
